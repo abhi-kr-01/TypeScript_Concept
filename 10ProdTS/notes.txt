@@ -1,0 +1,18 @@
+1. you have to initialise tsc with cmd = "tsc --init"
+It will make tsconfig.json -> for typescript
+
+2. initialise the npm "npm init -y"
+it will show some package.json for your project 
+
+3. make dir src,dist in root of project folder
+-> we will write code in index.ts in src but after compilation it's js file will make in dist 
+-> to do this we have to go "tsconfig.json" in that file -> outdir -> uncomment this
+-> // or we can write command to do continuos watching "tsc -w"
+"tsc -w"
+
+4. make index,html in root dir to make frontend -
+work in all framework accordingly with slightly change
+
+5.we will make another thing to work project to cast the work on browser
+we use server for index.html to get some server : 
+---> npm i lite-server  <--

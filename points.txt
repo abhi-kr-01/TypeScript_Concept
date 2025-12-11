@@ -1,0 +1,7 @@
+tsc is development tool -> not stand alone languGE 
+-> IT IS TOTALLY compilled on js
+-> js and ts both are same except some different points
+1. ts -> static checker
+2. js is not 
+ ======> for output tsc filename.ts
+  --> after writing code it make file of js with same name and convert all code into js
