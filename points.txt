@@ -5,3 +5,14 @@ tsc is development tool -> not stand alone languGE
 2. js is not 
  ======> for output tsc filename.ts
   --> after writing code it make file of js with same name and convert all code into js
+
+
+  // push on gitHUb
+
+cd folder name
+1. git init
+2. git add . // for all folder
+3. git commit -m "initial commit"
+4. git remote add origin "link of repo without quotes"
+5. git push -u origin main
+
